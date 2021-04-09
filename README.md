@@ -5,7 +5,7 @@ I'm Ricardo Moura!
 - 📝 [Resume]()
 - 💬 You can also find me on:
 
-<div style="margin-left:5px;">
+<div style="margin-left: 30px;"">
   <a href="https://www.linkedin.com/in/RMoura98/">
     <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
   </a>

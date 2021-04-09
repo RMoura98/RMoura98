@@ -1,16 +1,13 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
 I'm Ricardo Moura!
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)
+<!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
+<h5> More about me: </h5>
 
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
 - 📝 [Resume]()
 
-<h5> More about me: </h5>
-
-
-<div>
-  
+<div style="margin-left: 30px;">
   <a href="https://www.linkedin.com/in/RMoura98/">
     <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
   </a>

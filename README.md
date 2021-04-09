@@ -1,6 +1,8 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
 I'm Moura!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=TeX&layout=compact)
+
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>
 

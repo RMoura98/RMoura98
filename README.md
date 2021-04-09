@@ -3,7 +3,7 @@ I'm Ricardo Moura!
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>
-<img align="right" alt="GIF" style="margin-top: -180px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
 - 📝 [Resume]()
@@ -17,3 +17,4 @@ I'm Ricardo Moura!
 <div>
   <img src="https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98" />
 </div>
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

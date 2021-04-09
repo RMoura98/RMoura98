@@ -1,5 +1,5 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
-I'm Ricardo Moura!
+I'm Moura!
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>

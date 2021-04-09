@@ -13,7 +13,9 @@ I'm Ricardo Moura!
   <img align="left" alt="Moura's  Instagram" width="22px" src="/instagram.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98)
+<img src="https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98" />
+
+![]()
 <br />
 
   

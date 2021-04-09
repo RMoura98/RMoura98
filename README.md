@@ -1,5 +1,5 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
-I'm Moura!
+I'm Moura, a informatics engineering sudent at FEUP.
 
 
 ##### My Github Stats

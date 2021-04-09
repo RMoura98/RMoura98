@@ -6,7 +6,7 @@ I'm Moura!
 
 
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
-- 📝 [Resume]()
+- 📝 [Resume](#)
 
 <a href="https://www.linkedin.com/in/RMoura98/">
   <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />

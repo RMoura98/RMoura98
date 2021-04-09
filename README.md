@@ -1,4 +1,7 @@
-### Hi there <img src="/wave.gif" width="30px">,
+### Hi there <img src="/wave.gif" width="30px">, 
+I'm Ricardo Moura!
+
+💬 You can also find me on:
 
 <a href="https://www.linkedin.com/in/RMoura98/">
   <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
@@ -12,14 +15,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/);
 - 📝 [Resume]()
 
-
-
-
-I'm Ricardo Moura!
 
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->

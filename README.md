@@ -1,4 +1,4 @@
-### Hi there <img src="/wave.gif" width="30px">, 
+### Hi there <img src="/wave.gif" width="25px">, 
 I'm Moura, a informatics engineering sudent at FEUP.
 
 

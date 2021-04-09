@@ -3,11 +3,7 @@ I'm Moura!
 
 
 ##### My Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RMoura98&show_icons=true&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html&layout=compact">
-</p>
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html&layout=compact">
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>

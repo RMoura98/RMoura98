@@ -1,13 +1,11 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
 I'm Ricardo Moura!
 
-📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
+- 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
+- 📝 [Resume]()
+- 💬 You can also find me on:
 
-📝 [Resume]()
-
-💬 You can also find me on:
-
-
+&emsp
 <a href="https://www.linkedin.com/in/RMoura98/">
   <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
 </a>

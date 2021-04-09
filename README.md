@@ -1,7 +1,8 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
 I'm Ricardo Moura!
-
-💬 You can also find me on:
+- 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/);
+- 📝 [Resume]()
+- 💬 You can also find me on:
 
 <a href="https://www.linkedin.com/in/RMoura98/">
   <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
@@ -15,8 +16,6 @@ I'm Ricardo Moura!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/);
-- 📝 [Resume]()
 
 
 

@@ -3,11 +3,8 @@ I'm Ricardo Moura!
 
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
 - 📝 [Resume]()
-- 💬 You can also find me on: <a href="https://www.instagram.com/rmoura98_/">
-    <img align="left" alt="Moura's  Instagram" width="22px" src="/instagram.png" />
-  </a>
 
-<div style="margin-left: 30px;"">
+<div>
   <a href="https://www.linkedin.com/in/RMoura98/">
     <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />
   </a>

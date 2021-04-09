@@ -2,6 +2,14 @@
 I'm Moura!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=TeX&layout=compact)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RMoura98&show_icons=true&theme=bear&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html&theme=bear">
+</p>
+
 
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>

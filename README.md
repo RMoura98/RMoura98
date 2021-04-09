@@ -1,13 +1,11 @@
 ### Hi there <img src="/wave.gif" width="30px">, 
 I'm Moura!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=TeX&layout=compact)
-
 
 ##### My Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RMoura98&show_icons=trueline_height=34">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RMoura98&show_icons=true&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html,TeX&layout=compact">
 </p>
 
 

@@ -12,10 +12,9 @@ I'm Ricardo Moura!
 <a href="https://www.instagram.com/rmoura98_/">
   <img align="left" alt="Moura's  Instagram" width="22px" src="/instagram.png" />
 </a>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98" />
-
-![]()
+<a href="#">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98" />
+</a>
 <br />
 
   

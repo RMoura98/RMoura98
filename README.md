@@ -5,7 +5,7 @@ I'm Moura, a informatics engineering sudent at FEUP.
 <!--##### My Github Stats-->
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html&layout=compact">-->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
+<!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RMoura98)-->
 <h5> More about me: </h5>
 
 

@@ -5,7 +5,7 @@ I'm Moura!
 ##### My Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RMoura98&show_icons=true&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html,TeX&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RMoura98&hide=css,java,html&layout=compact">
 </p>
 
 

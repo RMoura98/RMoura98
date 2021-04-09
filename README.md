@@ -17,4 +17,4 @@ I'm Moura!
 <div>
   <img src="https://visitor-badge.glitch.me/badge?page_id=RMoura98.RMoura98" />
 </div>
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->

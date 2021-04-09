@@ -1,4 +1,4 @@
-### Hi there <img src="/wave.gif" width="25px">, 
+### Hi there <img src="/wave.gif" width="17px">, 
 I'm Moura, a informatics engineering sudent at FEUP. 
 <!--I'm an enthusiast about learning and trying out new experiences of any kind. During all my life I have been open to various ways of thinking and new ways of learning. While I spend a lot of time doing things that I love such as programming and exploring the wonders of Artificial Intelligent, I prefer to use my free time to game and watch some anime.-->
 

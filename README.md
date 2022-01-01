@@ -11,7 +11,7 @@ I'm Moura, a informatics engineering sudent at FEUP.
 
 
 - 📫 How to reach me: [@RMoura98](https://www.linkedin.com/in/RMoura98/)
-- 📝 [Resume](https://drive.google.com/file/d/1Q00uHl8pc1HINrStAoITs8hSMlu_eoJF/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1SB4eFSGm0Y2tkzNVxik9VTLR7Ssmee9J/view?usp=sharing)
 
 <a href="https://www.linkedin.com/in/RMoura98/">
   <img align="left" alt="Moura's Linkedin" width="22px" src="/linkedin.svg" />

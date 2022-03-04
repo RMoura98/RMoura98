@@ -19,4 +19,9 @@ I'm Moura, a informatics engineering sudent at FEUP.
 <a href="https://www.instagram.com/rmoura98_/">
   <img align="left" alt="Moura's  Instagram" width="22px" src="/instagram.png" />
 </a>
+<br>
+<br>
+<a href="https://www.buymeacoffee.com/rmoura98" target="_blank">
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <!--<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
